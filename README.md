@@ -1,6 +1,6 @@
 # parzu-docker
 
-Docker container for rsennrich/ParZu 
+Docker container for [ParZu](https://github.com/rsennrich/ParZu)
 
 # Usage:
 
